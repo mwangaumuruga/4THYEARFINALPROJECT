@@ -6,9 +6,6 @@ Tools Used:
 Front-end: HTML, CSS, JavaScript
 Back-end: MySQL, PHP
 
-Screenshots:
-![1](https://user-images.githubusercontent.com/29058362/84313269-e9cfda00-ab83-11ea-9b35-ca3ff7b75708.JPG)
-![2](https://user-images.githubusercontent.com/29058362/84313303-f6543280-ab83-11ea-9845-d8e912f66686.JPG)
 
 Features:
 1. User Login: This contains all the tools and options required by any user who's willing to book a hotel room.
